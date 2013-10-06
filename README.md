@@ -14,7 +14,7 @@ julian@garden-of-eden:~/git/hello-node/$ npm -v
 1.3.11
 ```
 
-[npm] [2] es el handler de paquetes. 
+* [npm] [2] stands for node package manager
 
 Go here in other case: 
 * https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager
