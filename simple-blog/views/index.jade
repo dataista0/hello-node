@@ -1,0 +1,17 @@
+extends layout
+
+block content
+
+  #left-column.column
+    h2 Elige tu héroe
+    ul#heroes
+      each hero in heroes
+        li(class='hero-name')
+          a(href='#') #{hero}
+
+  #right-column.column
+    h2 Facts
+    ul#facts
+    label(for="new-fact") Añadir nuevo fact:
+    textarea#new-fact
+    a(id='add-new-fact', href='#') Añadir

@@ -17,7 +17,12 @@ Run this and check http://localhost:3000
 ```
 node app
 ```
+##See also
+ * [Jade] template engine
+ * [Stylus] is to CSS like Jade to HTML (like ruby's saas)
 
 
 [1]: http://howtonode.org/express-mongodb "node - express - Mongodb"
 [2]: http://expressjs.com/ "Express"
+[3]: http://jade-lang.com/ "Jade template engine"
+[4]: http://learnboost.github.io/stylus/ "Stylus"

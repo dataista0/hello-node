@@ -23,8 +23,10 @@ Go here in other case:
 
 * [How To Start] [1]
 * [Upgrading with 'n'] [3] Actual version is v0.10.20 and command name is 'node' (not nodejs)
+* [howtonode.org] [4]
 
 
 [1]: http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js "Stack Overflow - How Do I Get Started With Node Js?"
 [2]: https://npmjs.org/ "npm"
 [3]: http://stackoverflow.com/questions/10075990/upgrading-node-js-to-latest-version "Upgrading with 'n'"
+[4]: http://howtonode.org/ "howtonode.org"
